@@ -1,0 +1,4 @@
+accumulo
+========
+
+Accumulo test project
